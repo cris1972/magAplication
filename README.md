@@ -1,0 +1,2 @@
+# magAplication
+springFullStack
